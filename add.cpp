@@ -6,5 +6,6 @@ int main() {
 	cin >> x >> y;
 	cout << "The addition result = ";
 	cout << x + y;
+	cout << endl;
 	return0;
 }
